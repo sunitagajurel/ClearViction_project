@@ -1,8 +1,11 @@
-# React + Vite
+This project fetches data from the api and displays it in the table 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To use this project, follow following steps. 
 
-Currently, two official plugins are available:
+git clone 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+cd clearViction_project 
+
+npm install 
+
+npm run dev 
