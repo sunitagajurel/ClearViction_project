@@ -4,6 +4,8 @@ To use this project, follow following steps.
 
 `git clone https://github.com/sunitagajurel/ClearViction_project.git `
 
+`cd ClearViction_project`
+
 `npm install`
 
 `npm run dev` 
