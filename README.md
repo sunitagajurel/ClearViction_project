@@ -9,3 +9,5 @@ To use this project, follow following steps.
 `npm install`
 
 `npm run dev` 
+
+Goto : `http://localhost:5173/`
